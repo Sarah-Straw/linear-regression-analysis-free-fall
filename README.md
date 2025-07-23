@@ -29,7 +29,7 @@ A multiple linear regression model is fitted to free fall data of balls of varyi
 ## Report
 
 A full report PDF on the code methods, findings and analysis can be found in the main repository or here: 
-[`Sarah_Straw_regression_free_fall_Report.pdf`](./report.pdf)
+[`Sarah_Straw_regression_free_fall_Report.pdf`](./Report.pdf)
 
 ## Requirements
 
