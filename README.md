@@ -17,6 +17,20 @@ A multiple linear regression model is fitted to free fall data of balls of varyi
 - Evaluating models for selection from mean squared error and residuals
 - scientific analysis
 
+## Images
+
+<p align="center">
+  <img src="images/corr_matrix.png" width="450"/>
+  <img src="images/time_height.png" width="450"/>
+  <img src="images/mass_by_time.emf" width="450"/>
+  <img src="images/iron.png" width="450"/>
+</p>
+
+## Report
+
+A full report PDF on the code methods, findings and analysis can be found in the main repository or here: 
+[`Sarah_Straw_regression_free_fall_Report.pdf`](./images/Sarah_Straw_regression_free_fall_Report.pdf)
+
 ## Requirements
 
 - Python 3
